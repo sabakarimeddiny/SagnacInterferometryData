@@ -1,0 +1,3 @@
+Rxx: 552.6 ohm
+Rxy: 256.9 ohm
+t nm: 0.55 

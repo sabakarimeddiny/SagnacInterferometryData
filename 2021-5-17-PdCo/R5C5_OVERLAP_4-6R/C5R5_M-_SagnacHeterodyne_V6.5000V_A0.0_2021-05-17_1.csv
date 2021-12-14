@@ -1,0 +1,34 @@
+#Procedure: <sagnac.procedures.HeterodyneProcedure.sagnacOpticsXportProcedure>
+#Parameters:
+#	Amp Gain: 0 x
+#	Applied Sample Voltage: 6.5 V
+#	Apply a Bias Field?: False
+#	Number of Averages: 4
+#	Bias Field x: 0 T
+#	Bias Field y: 0 T
+#	Bias Field z: 0 T
+#	Applied Sample Current frequency: 3.137 kHz
+#	Output Voltage: 0.65 V
+#	EOM Frequency: 3.3477e+06 MHz
+#	Filter Order First Harmonic: 8
+#	Lockin Time Constant First Harmonic: 2 s
+#	Hysteresis Sweep?: False
+#	50 Ohm Input Impedance: True
+#	input range: 1 V
+#	Time Queued: 03:24pm 2021-05-17
+#	Reverse?: False
+#	Sample Name: C5R5_M-
+#	Saturate First?: True
+#	Saturating Magnetic Field: -0.1 T
+#	Saturating Magnetic Field Azimuth: 90 deg
+#	Saturating Magnetic Field Polar: 90 deg
+#	Filter Order Second Harmonic: 8
+#	Lockin Time Constant Second Harmonic: 2 s
+#	Settling: 30 s
+#	Bias Magnetic Field: 0.15 T
+#	Bias Magnetic Field Azimuth: 0 deg
+#	Bias Magnetic Field Polar: 0 deg
+#	Bias Magnetic Field step: 0.01 T
+#	Pre Measurement Wait Time: 0 s
+#Data:
+ThetaK,X1,Y1,X2,Y2,DeltaThetaK,DeltaX1,DeltaY1,TX1,TY1,TX2,TY2,sweep_field,elapsed_time

@@ -1,0 +1,2 @@
+Rxx 403.57 Ohm
+Rxy 194.3 Ohm

@@ -1,0 +1,26 @@
+#Procedure: <sagnac.procedures.PHEProcedure.sagnacPHEProcedure>
+#Parameters:
+#	Applied Magnetic Field: 0.05 T
+#	Applied Sample Voltage: 2 V
+#	Applied Sample Voltage frequency: 3137 kHz
+#	Output Voltage: 0.65 V
+#	EOM Frequency: 3.3477e+06 MHz
+#	Field Azimuth stop: 170 deg
+#	Field Azimuth start: -170 deg
+#	Field Azimuth step: 1 deg
+#	Field Polar: 0 deg
+#	Filter Order First Harmonic: 8
+#	Lockin Time Constant First Harmonic: 0.2 s
+#	50 Ohm Input Impedance: False
+#	input range: 2 V
+#	Time Queued: 09:26am 2021-04-09
+#	Sample Name: C5R8
+#	Saturate First?: False
+#	Saturating Magnetic Field: -0.1 T
+#	Saturating Magnetic Field Azimuth: 0 deg
+#	Saturating Magnetic Field Polar: 90 deg
+#	Filter Order Second Harmonic: 8
+#	Lockin Time Constant Second Harmonic: 0.2 s
+#	Settling: 2 s
+#Data:
+ThetaK,Ratio,X1,Y1,X2,Y2,DeltaThetaK,DeltaX1,DeltaY1,TX1,TY1,TX2,TY2,field_azimuth,elapsed_time

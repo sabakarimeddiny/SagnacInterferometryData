@@ -1,0 +1,33 @@
+#Procedure: <daedalus.procedures.Hall2HarmProcedure.Hall2DualHarmAngProcedure>
+#Parameters:
+#	Applied Sample Voltage: 1 V
+#	Magnet Calibration Filename: ./calibrations/daedalus
+#	Delay: 1.5 s
+#	End Azimuthal Field: 360 deg
+#	Start Azimuthal Field: 0 deg
+#	Azimuthal Field Step: 1 deg
+#	Magnetic Field Polar Angle: 0 deg
+#	Field Strength: 0.125 T
+#	Lockin AC Gain: 50 dB
+#	Lockin Frequency: 3137.17 Hz
+#	First Harmonic Lockin Phase Offset: 0 deg
+#	Second Harmonic Lockin Phase Offset: 0 deg
+#	Lockin Sense Mode: A-B
+#	Time Queued: 12:44pm 2021-04-23
+#	Sample Name: C5R9_20x80_6x6_SQUARE_L
+#	First Harmonic Lockin Sensitivity: 0.0005 V
+#	Second Harmonic Lockin Sensitivity: 5e-05 V
+#	Probe Station Name: daedalus
+#	First Harmonic Lockin Time Constant: 0.5 s
+#	Second Harmonic Lockin Time Constant: 0.5 s
+#Data:
+X1,X2,Y1,Y2,field_azimuth_measured,field_azimuth,elapsed_time
+0.0015,6.55e-07,8.66e-05,1.475e-06,0.0,0.0,1.5609982013702393
+0.0015,6.9e-07,9.185e-05,1.49e-06,1.0,1.0,4.6130006313323975
+0.0015,6.95e-07,9.19e-05,1.425e-06,2.0035,2.0,7.666997909545898
+4.16e-05,5e-09,1e-06,1.5e-08,3.0,3.0,10.713998079299927
+0.003,7.05e-07,9.2e-05,1.315e-06,3.9985,4.0,13.752998352050781
+0.004853,6.85e-07,9.2e-05,1.24e-06,5.001,5.0,16.786998748779297
+0.0048616,6.85e-07,9.2e-05,1.22e-06,6.0,6.0,19.837998390197754
+0.00487,7.25e-07,9.2e-05,1.17e-06,7.0,7.0,22.87199831008911
+0.0048784,7.05e-07,9.2e-05,1.14e-06,8.0005,8.0,25.922999382019043

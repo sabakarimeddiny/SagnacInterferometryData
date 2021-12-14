@@ -1,0 +1,3 @@
+Rxx 320.9 Ohm
+Rxy 154.4 Ohm
+7.6 mm from flat

@@ -1,0 +1,32 @@
+#Procedure: <daedalus.procedures.STFMRProcedure.PHSTFMRProcedure>
+#Parameters:
+#	AM Depth: 100
+#	AM Frequency: 1713 Hz
+#	Magnet Calibration Filename: ./calibrations/daedalus
+#	DC Bias Current: 0 A
+#	Delay: 0.15 s
+#	Magnetic Field Azimuthal Angle: 45 deg
+#	Magnetic Field Polar Angle: 0 deg
+#	End Magnetic Field: 0.2 T
+#	Start Magnetic Field: 0 T
+#	Magnetic Field Step: 0.0005 T
+#	Swap Field: False
+#	Longitudinal Gain: 40 dB
+#	Transverse Gain: 40 dB
+#	Longitudinal Lockin Phase: 0 deg
+#	Transverse Lockin Phase: 0 deg
+#	Longitudinal Lockin Sense Mode: A-B
+#	Transverse Lockin Sense Mode: A-B
+#	Time Queued: 04:20pm 2021-04-24
+#	RF Frequency: 7 GHz
+#	RF Power: 15 dBmW
+#	Sample Name: C5R6_40x80_6x05_Pt_R
+#	Longitudinal Lockin Sensitivity: 5e-05 V
+#	Transverse Lockin Sensitivity: 1e-05 V
+#	Probe Station Name: daedalus
+#	Longitudinal Lockin Time Constant: 0.05 s
+#	Transverse Lockin Time Constant: 0.05 s
+#	Use Bias Current: False
+#Data:
+X,Y,Xt,Yt,field_strength,elapsed_time
+3.215e-06,-4e-08,-8.68e-07,5.5e-08,0.2,0.18999409675598145
